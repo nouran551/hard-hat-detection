@@ -21,7 +21,7 @@ This is how to build an object detector for a custom dataset. You can find the c
 #### And 1766 images as a test set, of total 7035 images.
 
 ## Annotations
-Annotations in the PASCAL VOC format, saved as [CSV File](https://drive.google.com/file/d/1RRNWCmzuGeaaF3xfQyEUjVP0abc3RO2M/view?usp=sharing), After some processing on the CSV file and loading it to a Pandas df
+Annotations saved as [CSV File](https://drive.google.com/file/d/1RRNWCmzuGeaaF3xfQyEUjVP0abc3RO2M/view?usp=sharing), After some processing on the CSV file and loading it to a Pandas df
 
 <p float="center">
 <img src=images/333.png/>
